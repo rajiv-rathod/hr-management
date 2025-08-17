@@ -50,3 +50,6 @@ See `requirements.txt` for all Python dependencies.
 
 ## License
 This project is licensed under the MIT License.
+
+## Contributors
+Shreta Das & Rajiv Rathod
