@@ -1,0 +1,7 @@
+{
+    "Python": ["python", "data analysis", "pandas", "numpy"],
+    "Machine Learning": ["machine learning", "scikit-learn", "tensorflow", "keras"],
+    "Digital Marketing": ["digital marketing", "seo", "google analytics"],
+    "Web Development": ["html", "css", "javascript", "react", "node"],
+    "Cloud Computing": ["aws", "azure", "gcp", "cloud"]
+}

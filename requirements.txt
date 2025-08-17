@@ -1,0 +1,13 @@
+pytesseract
+pdfplumber
+python-docx
+spacy
+rapidfuzz
+pandas
+opencv-python
+pdf2image
+tqdm
+openai
+xlrd
+openpyxl
+PyMuPDF
