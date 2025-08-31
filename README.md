@@ -296,12 +296,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👥 Contributors
 
 - **Rajiv Rathod** - Lead Developer
-- **Shreta Das** - Contributor
+- **Shreta Das** - Developer | UI / UX
 
 ## 📞 Support
 
 For issues, questions, or contributions:
-- 📧 Email: [your-email@domain.com]
+- 📧 Email: [rajiv.yupp@gmail.com]
 - 🐛 Issues: [GitHub Issues](https://github.com/rajiv-rathod/hr-management/issues)
 - 💬 Discussions: [GitHub Discussions](https://github.com/rajiv-rathod/hr-management/discussions)
 
