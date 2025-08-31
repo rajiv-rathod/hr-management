@@ -296,7 +296,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👥 Contributors
 
 - **Rajiv Rathod** - Lead Developer
-- **Shreta Das** - Developer | UI / UX
+- **Shreta Das** - Developer | AI&ML
 
 ## 📞 Support
 
